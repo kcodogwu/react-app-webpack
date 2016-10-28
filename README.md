@@ -37,6 +37,7 @@ Also requires webpack, globally installed.
 > ```
 
 Inspirations / references for this setup:
+
 1. [How to Use ES6 for Universal JavaScript Apps](https://medium.com/javascript-scene/how-to-use-es6-for-isomorphic-javascript-apps-2a9c3abe5ea2#.ji17ytoqr) by [Eric Elliott](https://github.com/ericelliott)
 2. [Baby’s First Reaction](https://medium.com/javascript-scene/baby-s-first-reaction-2103348eccdd#.720sf8ah4) by [Eric Elliott](https://github.com/ericelliott)
 3. [Browserify vs Webpack](https://medium.com/@housecor/browserify-vs-webpack-b3d7ca08a0a9#.lirbr55oc) by [Cory House](https://medium.com/@housecor)
