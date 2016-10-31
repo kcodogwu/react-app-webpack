@@ -2,7 +2,7 @@
   "name": "react-app-webpack",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "build": "npm run clean && npm run build-app && npm run build-lib && npm run build-public && npm run build-server",
     "build-app": "babel app.js -o build/app.js",
