@@ -3,7 +3,7 @@ module.exports = {
         main: './public/js/main.js'
     },
     output: {
-        path: 'build/public/js',
+        path: './build/public/js',
         filename: '[name].js'
     },
     module: {

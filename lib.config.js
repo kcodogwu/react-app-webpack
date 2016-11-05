@@ -3,7 +3,7 @@ module.exports = {
         hello: './lib/hello.js'
     },
     output: {
-        path: 'build/lib',
+        path: './build/lib',
         filename: '[name].js'
     },
     module: {
